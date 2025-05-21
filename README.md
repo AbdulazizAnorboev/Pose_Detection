@@ -109,19 +109,19 @@ python yolopose_train.py
 <table>
   
   <tr>
-    <td><img src="assets/BoxF1_curve.png" height="400px" /></td>
-    <td><img src="assets/BoxP_curve.png" height="400px"/></td>
+    <td><img src="assets/BoxF1_curve.png" height="300px" /></td>
+    <td><img src="assets/BoxP_curve.png" height="300px"/></td>
   </tr>
   
   <tr>
-    <td><img src="assets/BoxR_curve.png" height="400px" /></td>
-    <td><img src="assets/BoxPR_curve.png" height="400px" /></td>
+    <td><img src="assets/BoxR_curve.png" height="300px" /></td>
+    <td><img src="assets/BoxPR_curve.png" height="300px" /></td>
   </tr>
   
 </table>
 
 <div style="text-align:center;">
-  <img src="assets/confusion_matrix_normalized.png" height="600px" />
+  <img src="assets/confusion_matrix_normalized.png" height="500px" />
 </div>
 
 
