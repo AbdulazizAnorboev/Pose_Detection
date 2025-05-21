@@ -92,20 +92,6 @@ Then simply run:
 ```bash
 python yolopose_train.py
 ```
-
----
-
-## 📈 Evaluation Metrics
-
-- **MPJPE** (Mean Per Joint Position Error)
-- **PCK** (Percentage of Correct Keypoints)
-- **OKS** (Object Keypoint Similarity)
-- **NME** (Normalized Mean Error)
-- **KDA** (Keypoint Detection Accuracy)
-- **AP/AR** (Average Precision/Recall)
-
-<h3>Training Curve Visualizations</h3>
-
 <table>
   
   <tr>
@@ -119,6 +105,20 @@ python yolopose_train.py
   </tr>
   
 </table>
+---
+
+## 📈 Evaluation Metrics
+
+- **MPJPE** (Mean Per Joint Position Error)
+- **PCK** (Percentage of Correct Keypoints)
+- **OKS** (Object Keypoint Similarity)
+- **NME** (Normalized Mean Error)
+- **KDA** (Keypoint Detection Accuracy)
+- **AP/AR** (Average Precision/Recall)
+
+<h3>Training Curve Visualizations</h3>
+
+
 
 <div style="text-align:center;">
   <img src="assets/confusion_matrix_normalized.png" height="500px" />
