@@ -25,13 +25,15 @@ A PyTorch-based implementation of a pose estimation model leveraging the YOLOv11
   <tr>
     <td><img src="assets/BoxF1_curve.png" height="200px" width="250"/></td>
     <td><img src="assets/BoxP_curve.png" height="200px" width="250"/></td>
-    <td><img src="assets/BoxPR_curve.png" height="200px" width="250"/></td>
+    
   </tr>
   <tr>
     <td><img src="assets/BoxR_curve.png" height="200px" width="250"/></td>
-    <td><img src="assets/confusion_matrix_normalized.png" height="200px" width="250"/></td>
+    <td><img src="assets/BoxPR_curve.png" height="200px" width="250"/></td>
   </tr>
 </table>
+
+<td><img src="assets/confusion_matrix_normalized.png" height="200px" width="250"/></td>
 
 <h3>Model Predictions</h3>
 
