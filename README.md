@@ -17,27 +17,7 @@ A PyTorch-based implementation of a pose estimation model leveraging the YOLOv11
 
 ---
 
-## 🖼️ Demo Samples
 
-<h3>Training Curve Visualizations</h3>
-
-<table>
-  
-  <tr>
-    <td><img src="assets/BoxF1_curve.png" height="400px" /></td>
-    <td><img src="assets/BoxP_curve.png" height="400px"/></td>
-  </tr>
-  
-  <tr>
-    <td><img src="assets/BoxR_curve.png" height="400px" /></td>
-    <td><img src="assets/BoxPR_curve.png" height="400px" /></td>
-  </tr>
-  
-</table>
-
-<div style="text-align:center;">
-  <img src="assets/confusion_matrix_normalized.png" height="600px" />
-</div>
 
 
 <h3>Model Predictions</h3>
@@ -124,6 +104,27 @@ python yolopose_train.py
 - **KDA** (Keypoint Detection Accuracy)
 - **AP/AR** (Average Precision/Recall)
 
+<h3>Training Curve Visualizations</h3>
+
+<table>
+  
+  <tr>
+    <td><img src="assets/BoxF1_curve.png" height="400px" /></td>
+    <td><img src="assets/BoxP_curve.png" height="400px"/></td>
+  </tr>
+  
+  <tr>
+    <td><img src="assets/BoxR_curve.png" height="400px" /></td>
+    <td><img src="assets/BoxPR_curve.png" height="400px" /></td>
+  </tr>
+  
+</table>
+
+<div style="text-align:center;">
+  <img src="assets/confusion_matrix_normalized.png" height="600px" />
+</div>
+
+
 Example training log:
 
 ```
@@ -170,6 +171,3 @@ Pull requests and feature suggestions are welcome!
 
 ---
 
-## 📬 Contact
-
-For questions or collaborations: [your-email@example.com](mailto:your-email@example.com)
