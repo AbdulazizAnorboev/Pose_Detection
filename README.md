@@ -37,8 +37,8 @@ A PyTorch-based implementation of a pose estimation model leveraging the YOLOv11
 
 <table>
   <tr>
-    <td><img src="assets/val_batch1_pred.jpg" height="200px" /></td>
-    <td><img src="assets/val_batch2_pred.jpg" height="200px" /></td>
+    <td><img src="assets/val_batch1_pred.jpg" height="400px" /></td>
+    <td><img src="assets/val_batch2_pred.jpg" height="400px" /></td>
   </tr>
 </table>
 
