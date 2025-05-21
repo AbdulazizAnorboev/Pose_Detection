@@ -35,9 +35,9 @@ A PyTorch-based implementation of a pose estimation model leveraging the YOLOv11
   
 </table>
 
-<div style="text-align:center;">
+<center>
   <img src="assets/confusion_matrix_normalized.png" height="600px" />
-</div>
+</center>
 
 
 <h3>Model Predictions</h3>
